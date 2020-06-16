@@ -1,1 +1,1 @@
-# Coursera-JHU-DataScience-With-R
+Coding Assignments and Snippets related to the Data science specialization on Coursera
